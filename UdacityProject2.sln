@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdacityProject2.CSharp", "UdacityProject2.CSharp.csproj", "{1AB37CEB-CFDB-DA0F-9FE7-9FE97A2997AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdacityProject2.CSharp.Editor", "UdacityProject2.CSharp.Editor.csproj", "{C1042579-9CB7-2CC1-76A3-5864B45CB6F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB37CEB-CFDB-DA0F-9FE7-9FE97A2997AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB37CEB-CFDB-DA0F-9FE7-9FE97A2997AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB37CEB-CFDB-DA0F-9FE7-9FE97A2997AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB37CEB-CFDB-DA0F-9FE7-9FE97A2997AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1042579-9CB7-2CC1-76A3-5864B45CB6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1042579-9CB7-2CC1-76A3-5864B45CB6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1042579-9CB7-2CC1-76A3-5864B45CB6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1042579-9CB7-2CC1-76A3-5864B45CB6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

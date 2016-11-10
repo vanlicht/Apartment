@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRND-Course2-Project/Scenes/Project2_t_v01.unity
+  isLoaded: 1
+  isActive: 1
